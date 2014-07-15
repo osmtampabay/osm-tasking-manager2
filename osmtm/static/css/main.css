@@ -5710,7 +5710,7 @@ body {
 #project_edit .preview {
   min-height: 100px;
 }
-#project_new_grid #leaflet {
+#project_new #leaflet {
   height: 400px;
 }
 #project_new_grid .grid64,
